@@ -7,7 +7,7 @@
 ***
 #### Схема включения преобразователь PCF8574 и LCD44780
 
-![esp8266-i2c-lcd44780](https://user-images.githubusercontent.com/13176091/53984068-3dea4400-4121-11e9-86cc-32aa248f647c.png)
+![esp8266-i2c-lcd44780](https://user-images.githubusercontent.com/13176091/53985630-d33b0780-4124-11e9-9762-d804b64032c1.png)
 
 #### Пример использования
 ```python
